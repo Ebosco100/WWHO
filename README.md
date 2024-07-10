@@ -14,7 +14,7 @@ Número de Ilhas mestre por instalação: 1
 Número de ilhas Supervisionadas por instalação :ilimitado
 Sistema de faturamento : U$ 10.00 por ilha instalada. Mínimo de Faturamento mensal U$ 500.00 por ID de ilha Mestre.
 Sistema Trial de 30 dias gratuito, sem necessidade de registro de cartão de crédito.
-Após o período Trial, o sistema para continuar a operar necessita da renovação da assinatura.
+Após o período Trial, o sistema para continuar a operar, necessita da contratação/pagamento da assinatura.
 Pagamento da assinatura através de cartão de crédito aceito pelo Paypal através de acionamento no sistema.
 Os códigos das ilhas são criados no momento da ativação da ilha mestre.
 As ilhas supervisionadas terão mesmo ID seguido do identificador serial numperico.
