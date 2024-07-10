@@ -10,7 +10,7 @@ Um token de verificação obriga a presença humana na alimentação do conteúd
 Relatórios completos de tarefas a executar, em execução, interrompiadas e concluídas.
 Opera em todos os dispositivos que possuem conexão à internet.
 Dispositivos com navegador Siri necessitam instalar extensão responsiva de tela.
-Número de Iljas mestre por instalação: 1
+Número de Ilhas mestre por instalação: 1
 Número de ilhas Supervisionadas por instalação :ilimitado
 Sistema de faturamento : U$ 10.00 por ilha instalada. Mínimo de Faturamento mensal U$ 500.00 por ID de ilha Mestre.
 Sistema Trial de 30 dias gratuito, sem necessidade de registro de cartão de crédito.
