@@ -1,4 +1,4 @@
-# WWHO - World Wide Home Office
+# WWHO - World Wide Home Office - Versão II - Regiões: Brasil, Uruguai e Chile 
 Plataforma de Produçao remota ou presencial através de ilhas de produção.
 Crie ilha mestre e ilhas supervisoras. 
 A parametrização definirá 12 aspectos operacionais.
